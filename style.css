@@ -1,0 +1,12 @@
+#list {
+  list-style: none;
+  height: 300px;
+  overflow: scroll;
+}
+#list .list-el {
+  padding-left: 5px;
+  padding-right: 5px;
+  box-sizing: border-box;
+  height: 30px;
+  background-color: #eaefed;
+}
